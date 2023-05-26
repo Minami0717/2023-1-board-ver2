@@ -1,4 +1,4 @@
-package com.green.boardver2.board;
+package com.green.boardver2.boardNGJ;
 
 import org.springframework.web.bind.annotation.RestController;
 
